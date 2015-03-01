@@ -14,22 +14,22 @@ console.log(clap);
 Input :
 
 ```
-./index.js command
-           -a
-           -b42
-           -c=88
-           -d 21
-           -ef
-           -gh5
-           -foo=bar
-           --mn6
-           --opt1 value1
-           --opt2=value2
-           --opt3="value with spaces"
-           --long-option-with-dashes
-           --long-option-with-value1=10
-           --long-option-with-value2 20
-           otherthing
+node index.js command
+              -a
+              -b42
+              -c=88
+              -d 21
+              -ef
+              -gh5
+              -foo=bar
+              --mn6
+              --opt1 value1
+              --opt2=value2
+              --opt3="value with spaces"
+              --long-option-with-dashes
+              --long-option-with-value1=10
+              --long-option-with-value2 20
+              otherthing
 ```
 
 Output :
